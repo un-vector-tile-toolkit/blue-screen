@@ -1,4 +1,5 @@
 {
+  "glyphs": "https://basemaps.arcgis.com/arcgis/rest/services/OpenStreetMap_v2/VectorTileServer/resources/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
@@ -8,6 +9,12 @@
       "type": "background"
     }
   ],
-  "sources": {},
+  "sources": {
+    "esri": {
+      "type": "vector",
+      "url": "https://basemaps.arcgis.com/arcgis/rest/services/OpenStreetMap_v2/VectorTileServer"
+    }
+  },
+  "sprite": "https://www.arcgis.com/sharing/rest/content/items/3e1a00aeae81496587988075fe529f71/resources/styles/../sprites/sprite",
   "version": 8
 }
