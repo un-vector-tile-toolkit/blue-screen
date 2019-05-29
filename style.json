@@ -3,7 +3,7 @@
     {
       "id": "background",
       "paint": {
-        "background-color": "#00f"
+        "background-color": "#0000ff"
       },
       "type": "background"
     }

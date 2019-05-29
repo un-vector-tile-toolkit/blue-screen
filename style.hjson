@@ -7,7 +7,7 @@
       id: background
       type: background
       paint: {
-        background-color: '#00f'
+        background-color: '#0000ff'
       }
     }
   ]
