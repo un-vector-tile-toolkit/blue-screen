@@ -1,0 +1,17 @@
+{
+  version: 8
+  layers: [
+    {
+      id: background
+      type: background
+      paint: {
+        background-color: [
+          rgb
+          0
+          0
+          255
+        ]
+      }
+    }
+  ]
+}

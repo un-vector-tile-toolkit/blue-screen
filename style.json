@@ -1,0 +1,17 @@
+{
+  "layers": [
+    {
+      "id": "background",
+      "paint": {
+        "background-color": [
+          "rgb",
+          0,
+          0,
+          255
+        ]
+      },
+      "type": "background"
+    }
+  ],
+  "version": 8
+}
